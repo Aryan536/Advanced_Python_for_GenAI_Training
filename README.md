@@ -175,6 +175,3 @@ In the handbook, project Step 0 asks learners to upload the dataset. In the note
 
 ---
 
-## Author
-
-**Anand Kumar Jha** – [ANALYTICSWITHANAND](https://github.com/anandjha90/ANALYTICSWITHANAND)

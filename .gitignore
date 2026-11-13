@@ -1,0 +1,10 @@
+# Files created when the notebooks run
+*.joblib
+llm_results.json
+negative_reviews.json
+notebooks/ecommerce_orders_10k.xlsx
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store
